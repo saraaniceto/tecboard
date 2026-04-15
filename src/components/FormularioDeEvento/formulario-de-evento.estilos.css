@@ -1,4 +1,7 @@
 .form-evento {
+  display:flex;
+  flex-direction: column;
+  gap: 32px;
   background-color: #212121;
   padding: 32px 28px;
   border-radius: 16px;
